@@ -1,8 +1,11 @@
 {
-  "name": "alurabooks-ds",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@thyvini-studies/alurabooks-ds",
+  "version": "0.1.0",
   "type": "module",
+  "author": {
+    "name": "Thyago Vinicius Camilo Cunha",
+    "email": "thyago.vccunha@gmail.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
