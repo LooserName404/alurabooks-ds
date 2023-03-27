@@ -1,2 +1,7 @@
 export * from './componentes/AbBotao'
+export * from './componentes/AbCampoTexto'
 export * from './componentes/AbCard'
+export * from './componentes/AbGrupoOpcoes'
+export * from './componentes/AbInputQuantidade'
+export * from './componentes/AbModal'
+export * from './componentes/AbTag'
