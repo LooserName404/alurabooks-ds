@@ -1,3 +1,15 @@
+# v0.2.4 (Mon Mar 27 2023)
+
+#### ⚠️ Pushed to `main`
+
+- adicionar modal e input quantidade (thyago.vccunha@gmail.com.br)
+
+#### Authors: 1
+
+- Thyago Vinicius Camilo Cunha (thyago.vccunha@gmail.com.br)
+
+---
+
 # v0.2.3 (Fri Mar 24 2023)
 
 #### ⚠️ Pushed to `main`
